@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 My name is **Mohamed Gamal**, a student at the Faculty of Engineering – Computers & Control Systems Department.  
-- 🚀 I’m currently a **Backend Developer** specialized in **Node.js & Express**.  
+- 🚀 I’m currently a **Backend Developer** specialized in **Node.js (Express & nest)**.  
 - 🌱 Always learning and improving my skills in software engineering and problem solving.  
 
 ---
